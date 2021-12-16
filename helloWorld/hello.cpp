@@ -31,4 +31,5 @@ int main(int argc, char** argv)
     }
     input.close(); //close input stream
     output.close(); // close output stream
+    return 0;
 }
